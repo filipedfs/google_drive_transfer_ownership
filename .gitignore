@@ -1,0 +1,6 @@
+.dart_tool
+.vscode
+.env
+.packages
+credentials.json
+token.json

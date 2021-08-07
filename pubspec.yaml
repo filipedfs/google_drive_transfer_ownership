@@ -1,0 +1,16 @@
+name: google_drive_dart_script
+version: 1.0.0
+publish_to: none
+description: >-
+  Description.
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  googleapis: 4.0.0
+  googleapis_auth: 1.1.0
+  dotenv: 3.0.0
+  open_url: 2.0.0
+  logger: 1.0.0
+  http: any
+dev_dependencies:
+  test: '>=1.15.0 <2.0.0'
